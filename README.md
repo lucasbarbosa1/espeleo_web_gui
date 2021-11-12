@@ -1,6 +1,6 @@
 # espeleo_web_gui
  
-# Iniciar servidor 
+# Server init
 python -m http.server
 
 
